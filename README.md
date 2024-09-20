@@ -2,4 +2,4 @@
 
 
 
-Setup: run ```npm i && npm start``` to start the development serve
+Setup: run ```npm i && npm start``` to start the development server
